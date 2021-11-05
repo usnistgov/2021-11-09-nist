@@ -408,11 +408,13 @@ please preview your site before committing, and make sure to run
   {% endcomment %}
   Setup instructions will be provided directly to workshop participants.
 </p>
+{% comment %}
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+{% endcomment %}
 
 {% comment %}
 For online workshops, the section below provides:
